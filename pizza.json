@@ -1,0 +1,23 @@
+
+{
+    "pizza":[
+        {
+            "id":1,
+            "name":"cheezy pizza",
+            "imageUrl":"",
+            "unitPrice":120
+        },
+        {
+            "id":2,
+            "name":"Papas pizza",
+            "imageUrl":"",
+            "unitPrice":150
+        },
+        {
+            "id":3,
+            "name":"Chiken man  pizza",
+            "imageUrl":"",
+            "unitPrice":100
+        }
+    ]
+}
